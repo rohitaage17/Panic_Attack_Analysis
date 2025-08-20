@@ -44,8 +44,8 @@ Performed data cleaning and transformation in Power Query:
   
 Measures used in  all visualization are:
  
-% Patients Dizziness = `DIVIDE(COUNTROWS(FILTER('panic_attack_dataset',panic_attack_dataset[Dizziness]=TRUE())),COUNTROWS('panic_attack_dataset'),0) *100`
-Age group Switch = `SWITCH(TRUE(),'panic_attack_dataset'[Age]<=17, "Child", panic_attack_dataset[Age]<=24,"Adolescent",panic_attack_dataset[Age]<=64,"Adult","Senior")`
+- % Patients Dizziness = `DIVIDE(COUNTROWS(FILTER('panic_attack_dataset',panic_attack_dataset[Dizziness]=TRUE())),COUNTROWS('panic_attack_dataset'),0) *100`
+- Age group Switch = `SWITCH(TRUE(),'panic_attack_dataset'[Age]<=17, "Child", panic_attack_dataset[Age]<=24,"Adolescent",panic_attack_dataset[Age]<=64,"Adult","Senior")`
 
 ## Data Visualization (Dashboard) :
 
