@@ -54,15 +54,15 @@ Data visualization for the data analysis (DAX) was done in Microsoft Power BI De
 Shows visualizations from Pizza Sales Dashborad :
 | Number of Patients by Symptoms |
 | ----------- |
-| ![Panic Attack](https://github.com/rohitaage17/Pizza_Sales_Dashoboard/blob/main/Pizza_Sales_Dashboard.png) |
+| ![Panic Attack](https://github.com/rohitaage17/Panic_Attack_Analysis/blob/main/Number%20of%20Patients%20by%20Symptoms.png) |
 
 | Other Requirments |
 | ----------- |
-| ![Panic Attack](https://github.com/rohitaage17/Pizza_Sales_Dashoboard/blob/main/Best_Worst_Pizza_Sales.png) |
+| ![Panic Attack](https://github.com/rohitaage17/Panic_Attack_Analysis/blob/main/Other%20Requirements.png) |
 
 | Age group Analysis|
 | ----------- |
-| ![Panic Attack](https://github.com/rohitaage17/Pizza_Sales_Dashoboard/blob/main/Best_Worst_Pizza_Sales.png) |
+| ![Panic Attack](https://github.com/rohitaage17/Panic_Attack_Analysis/blob/main/Age%20group%20Analysis.png) |
 
 ## Insights :
 
