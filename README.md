@@ -68,13 +68,13 @@ Shows visualizations from Pizza Sales Dashborad :
 
 From the analysis, the following can be observed:
   
-- Panic attacks are most common in the 20–35 age group.
-- Stress and lack of sleep are the top triggers.
-- Patients undergoing therapy show an average 40% reduction in episodes after 3 months.
-- Women reported slightly higher severity scores compared to men.
-- Panic attacks are more frequent during weekdays than weekends, possibly due to work-related stress
-
-
+- Sweating (836) & Shortness of Breath (746) are strong indicators of panic attacks.
+- Chest Pain, while less frequent, is medically significant and should not be ignored.
+- Insufficient sleep (≤5 hrs), moderate alcohol intake, and longer panic attack durations (20–40 min) are strongly associated with a higher number of patients experiencing panic attacks.
+- Lifestyle factors (sleep & alcohol) appear to play a significant role in both the frequency and severity of panic episodes.
+- Adolescents tend to experience higher panic scores with caffeine and phobia triggers.
+- Adults show more severe impact of PTSD and social anxiety compared to adolescents.
+- Sleep hours remain fairly consistent across both groups (~6.4–6.7 hrs), indicating sleep alone isn’t the differentiator—the type of trigger matters more by age.
 
 
 
